@@ -22,10 +22,11 @@ In this project the most important thing I learned was economics. After all cons
 This project really used and tested my problem-solving skills. By working on this project, I found myself more confident and calm in pressure.
 
 ## Pictures of the installation project
-![Curved Wall installation](assets/siteimgs/shalby_1.jpg "Curved Wall installation")
+
+![Curved Wall installation](assets/siteimgs/shalby_1.jpg "Curved Wall installation"){:class="picture"}
 
 Here we were tasked to install 5 meters (16feet) high with a curve. We staggered the joints of two adjacent precast walls to get better structural stability. This was installed by crew size of 5 in 3 days.  
 
-![shalby_2](assets/siteimgs/shalby_2.jpg)
-![shalby_3](assets/siteimgs/shalby_3.jpg)
-![shalby_4](assets/siteimgs/shalby_4.jpg)
+![shalby_2](assets/siteimgs/shalby_2.jpg){:class="picture"}
+![shalby_3](assets/siteimgs/shalby_3.jpg){:class="picture"}
+![shalby_4](assets/siteimgs/shalby_4.jpg){:class="picture"}
