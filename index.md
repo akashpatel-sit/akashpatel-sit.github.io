@@ -1,6 +1,6 @@
 # Akash Patel
 
-#### [PDF Resume](./downloads/akash_patel_4_2017.pdf)
+#### [PDF Resume](./downloads/akash_patel_8_2017.pdf)
 #### Contact:  ✉️ - akashpatel.sit@gmail.com 📞 - +1-201-673-6395
 
 #### [Blog](/blog)
